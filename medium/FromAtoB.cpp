@@ -1,6 +1,3 @@
-// url: https://www.codetree.ai/ko/trails/complete/curated-cards/challenge-a-to-b/submissions?page=1&page_size=20
-// codeTree Trail 1. Novice Low Lesson 9. 반복문 안에 if
-
 #include <iostream>
 using namespace std;
 
